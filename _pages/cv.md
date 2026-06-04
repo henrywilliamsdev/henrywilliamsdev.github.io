@@ -20,10 +20,15 @@ Skills
 * Coding
   * Python
   * Java
-* ASL
+* Technology
 * SSBU Mii Brawler Main
 
   
 Service and leadership
 ======
 * Currently the president of Teachers Quarum (LDS)
+
+Languages
+======
+* ASL
+* English

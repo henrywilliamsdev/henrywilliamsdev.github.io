@@ -10,10 +10,10 @@
 main:   
     
   - title: "Portfolio"
-    url: henrywilliamsdev.github.io/portfolio/
+    url: /portfolio/
         
     
   - title: "CV"
-    url: henrywilliamsdev.github.io/cv/
+    url: /cv/
     
 

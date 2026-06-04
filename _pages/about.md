@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# README
+
 # Henry
 
 ## About Me
